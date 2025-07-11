@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Full-Stack | Blockchain | AI Developer
+Full-Stack | Video Streaming | Blockchain | AI Developer
 
 I'm a versatile developer with a strong foundation in full-stack web and mobile development, combined with advanced experience in AI systems and blockchain technologies. I build scalable, end-to-end applications that integrate smart contracts, intelligent agents, and real-time data pipelines. From decentralized apps (dApps) to AI-powered automation tools, I deliver secure, high-performance solutions tailored to real-world use cases.
 
